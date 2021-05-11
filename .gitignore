@@ -1,0 +1,7 @@
+Fully_Albert
+RNN_Albert
+logs
+.models/
+.idea
+venv/
+.DS_Store
